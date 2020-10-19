@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**johnMartin393/johnMartin393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there , I'm Rahul!👋
 
-Here are some ideas to get you started:
+   <img src="https://github-readme-stats.vercel.app/api?username=johnMartin393&theme=algolia&show_icons=true"></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my rating of hackerrank.
+- 🌱 I’m currently learning Android studio.
+- 👯 I’m looking to collaborate on youtube.
+- 🤔 I’m looking for help with tensor flow OCR and trainning tess data.
+- 💬 Ask me about python or ant tech related stuff.
+- 📫 How to reach me: mail:kumarjhar393@gmail.com .
+- 😄 Pronouns: Hi/hII.
+- ⚡ Fun fact: I enjoy every moment of my life with a smile on my face.
+
+  
+
+
